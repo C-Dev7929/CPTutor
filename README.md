@@ -15,7 +15,7 @@ CPTutor is a Sublime Text 4 plugin that integrates Google's Gemini AI to assist 
 1. Clone this repository into your Sublime Text `Packages` directory:
    ```bash
    cd ~/.config/sublime-text/Packages
-   git clone https://github.com/YOUR_USERNAME/CPTutor.git
+   git clone https://github.com/C-Dev7929/CPTutor.git
    ```
 2. (Optional) Install the Gemini CLI for Google Login mode:
    ```bash
