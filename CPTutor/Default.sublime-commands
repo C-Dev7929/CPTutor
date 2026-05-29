@@ -1,0 +1,6 @@
+[
+    { "caption": "CPTutor: Start", "command": "cptutor_start" },
+    { "caption": "CPTutor: Send Message", "command": "cptutor_send_message" },
+    { "caption": "CPTutor: Change API Key", "command": "cptutor_change_api_key" },
+    { "caption": "CPTutor: Toggle Google Login (CLI Mode)", "command": "cptutor_toggle_cli_mode" }
+]
